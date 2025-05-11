@@ -243,7 +243,7 @@
                                                     "name": "cargo-wagon",
                                                     "quality": "normal",
                                                     "comparator": "=",
-                                                    "count": 2
+                                                    "count": 1
                                                 }
                                             ]
                                         }
@@ -742,7 +742,7 @@
                         },
                         {
                             "type": "number",
-                            "number": "2",
+                            "number": "1",
                             "name": "Cargo count",
                             "variable": "wag"
                         },
@@ -987,7 +987,7 @@
                                                     "name": "cargo-wagon",
                                                     "quality": "normal",
                                                     "comparator": "=",
-                                                    "count": 2
+                                                    "count": 1
                                                 },
                                                 {
                                                     "index": 2,
@@ -1507,7 +1507,7 @@
                         },
                         {
                             "type": "number",
-                            "number": "2",
+                            "number": "1",
                             "name": "Cargo count",
                             "variable": "wag"
                         },
@@ -4842,7 +4842,7 @@
                                                                 "name": "cargo-wagon",
                                                                 "quality": "normal",
                                                                 "comparator": "=",
-                                                                "count": 2
+                                                                "count": 1
                                                             }
                                                         ]
                                                     }
@@ -5381,7 +5381,7 @@
                                     },
                                     {
                                         "type": "number",
-                                        "number": "2",
+                                        "number": "1",
                                         "name": "Cargo count",
                                         "variable": "wag"
                                     },
@@ -27655,7 +27655,7 @@
                                                                 "name": "cargo-wagon",
                                                                 "quality": "normal",
                                                                 "comparator": "=",
-                                                                "count": 2
+                                                                "count": 1
                                                             },
                                                             {
                                                                 "index": 2,
@@ -28235,7 +28235,7 @@
                                     },
                                     {
                                         "type": "number",
-                                        "number": "2",
+                                        "number": "1",
                                         "name": "Cargo count",
                                         "variable": "wag"
                                     },
