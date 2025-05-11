@@ -27262,27 +27262,29 @@
                                 "icons": [
                                     {
                                         "signal": {
-                                            "name": "cargo-wagon"
+                                            "type": "virtual",
+                                            "name": "right-arrow"
                                         },
                                         "index": 1
                                     },
                                     {
                                         "signal": {
-                                            "name": "requester-chest"
+                                            "type": "virtual",
+                                            "name": "signal-stack-size"
                                         },
                                         "index": 2
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-0"
+                                            "name": "signal-1"
                                         },
                                         "index": 3
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-anything"
+                                            "name": "signal-N"
                                         },
                                         "index": 4
                                     }
@@ -28269,20 +28271,22 @@
                                 "icons": [
                                     {
                                         "signal": {
-                                            "name": "cargo-wagon"
+                                            "type": "virtual",
+                                            "name": "right-arrow"
                                         },
                                         "index": 1
                                     },
                                     {
                                         "signal": {
-                                            "name": "requester-chest"
+                                            "type": "virtual",
+                                            "name": "signal-stack-size"
                                         },
                                         "index": 2
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-0"
+                                            "name": "signal-1"
                                         },
                                         "index": 3
                                     },
@@ -29208,20 +29212,22 @@
                                 "icons": [
                                     {
                                         "signal": {
-                                            "name": "cargo-wagon"
+                                            "type": "virtual",
+                                            "name": "right-arrow"
                                         },
                                         "index": 1
                                     },
                                     {
                                         "signal": {
-                                            "name": "requester-chest"
+                                            "type": "virtual",
+                                            "name": "signal-stack-size"
                                         },
                                         "index": 2
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-0"
+                                            "name": "signal-2"
                                         },
                                         "index": 3
                                     },
@@ -30673,20 +30679,22 @@
                                 "icons": [
                                     {
                                         "signal": {
-                                            "name": "cargo-wagon"
+                                            "type": "virtual",
+                                            "name": "right-arrow"
                                         },
                                         "index": 1
                                     },
                                     {
                                         "signal": {
-                                            "name": "requester-chest"
+                                            "type": "virtual",
+                                            "name": "signal-stack-size"
                                         },
                                         "index": 2
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-0"
+                                            "name": "signal-3"
                                         },
                                         "index": 3
                                     },
@@ -32628,20 +32636,22 @@
                                 "icons": [
                                     {
                                         "signal": {
-                                            "name": "cargo-wagon"
+                                            "type": "virtual",
+                                            "name": "right-arrow"
                                         },
                                         "index": 1
                                     },
                                     {
                                         "signal": {
-                                            "name": "requester-chest"
+                                            "type": "virtual",
+                                            "name": "signal-stack-size"
                                         },
                                         "index": 2
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-0"
+                                            "name": "signal-4"
                                         },
                                         "index": 3
                                     },
@@ -35082,20 +35092,22 @@
                                 "icons": [
                                     {
                                         "signal": {
-                                            "name": "cargo-wagon"
+                                            "type": "virtual",
+                                            "name": "right-arrow"
                                         },
                                         "index": 1
                                     },
                                     {
                                         "signal": {
-                                            "name": "requester-chest"
+                                            "type": "virtual",
+                                            "name": "signal-stack-size"
                                         },
                                         "index": 2
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-0"
+                                            "name": "signal-5"
                                         },
                                         "index": 3
                                     },
@@ -38047,20 +38059,22 @@
                                 "icons": [
                                     {
                                         "signal": {
-                                            "name": "cargo-wagon"
+                                            "type": "virtual",
+                                            "name": "right-arrow"
                                         },
                                         "index": 1
                                     },
                                     {
                                         "signal": {
-                                            "name": "requester-chest"
+                                            "type": "virtual",
+                                            "name": "signal-stack-size"
                                         },
                                         "index": 2
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-0"
+                                            "name": "signal-6"
                                         },
                                         "index": 3
                                     },
@@ -41479,20 +41493,22 @@
                                 "icons": [
                                     {
                                         "signal": {
-                                            "name": "cargo-wagon"
+                                            "type": "virtual",
+                                            "name": "right-arrow"
                                         },
                                         "index": 1
                                     },
                                     {
                                         "signal": {
-                                            "name": "requester-chest"
+                                            "type": "virtual",
+                                            "name": "signal-stack-size"
                                         },
                                         "index": 2
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-0"
+                                            "name": "signal-7"
                                         },
                                         "index": 3
                                     },
@@ -45414,20 +45430,22 @@
                                 "icons": [
                                     {
                                         "signal": {
-                                            "name": "cargo-wagon"
+                                            "type": "virtual",
+                                            "name": "right-arrow"
                                         },
                                         "index": 1
                                     },
                                     {
                                         "signal": {
-                                            "name": "requester-chest"
+                                            "type": "virtual",
+                                            "name": "signal-stack-size"
                                         },
                                         "index": 2
                                     },
                                     {
                                         "signal": {
                                             "type": "virtual",
-                                            "name": "signal-0"
+                                            "name": "signal-8"
                                         },
                                         "index": 3
                                     },
