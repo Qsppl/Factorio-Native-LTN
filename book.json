@@ -3262,7 +3262,7 @@
                                     "name": "signal-C"
                                 }
                             },
-                            "station": "Разгрузка[item=parameter-0]",
+                            "station": "Разгрузка [item=parameter-0]",
                             "color": {
                                 "r": 0.949999988079071,
                                 "g": 0,
